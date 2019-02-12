@@ -1,2 +1,0 @@
-# SearchFilter
-Created with CodeSandbox
